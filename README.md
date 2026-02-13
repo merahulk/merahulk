@@ -105,14 +105,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merahulk&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merahulk&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar-955a342b5  
