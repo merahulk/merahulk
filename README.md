@@ -183,17 +183,6 @@ interests   : Salesforce AI • Full Stack Development • AI/ML • Backend Eng
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merahulk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merahulk&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 | 🏛️ Institution | 📚 Degree | 📅 Duration |
