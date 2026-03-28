@@ -36,7 +36,7 @@ interests   : Salesforce AI • Full Stack Development • AI/ML • Backend Eng
 | 💼 Role | 🛠️ Key Stack |
 |---|---|
 | ☁️ **Salesforce Developer / Agentforce Specialist** | Agentforce · Apex · LWC · Prompt Builder |
-| 🌐 **Full Stack Developer** | Angular · Spring Boot · Django · REST APIs |
+| 🌐 **Full Stack Developer** | Angular · Spring Boot · REST APIs |
 | 🤖 **AI / ML Engineer** | PyTorch · LangChain · OpenCV · MediaPipe |
 | ⚙️ **Backend Developer** | Java · Python · Spring Boot · MySQL |
 
